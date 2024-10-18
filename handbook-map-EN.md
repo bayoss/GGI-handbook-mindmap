@@ -4,7 +4,7 @@ markmap:
   colorFreezeLevel: 2
 ---
 
-# The Good Governance Handbook
+# The Good Governance Handbook (EN|[ZH](./index-zh.html))
 
 ## Links 
 - [GGI Handbook Mindmap](https://github.com/bayoss/GGI-handbook-mindmap)
