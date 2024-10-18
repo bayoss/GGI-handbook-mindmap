@@ -1,10 +1,10 @@
 {
-  "name": "oskm",
-  "description": "Mindmap of platform engineering",
+  "name": "handbook",
+  "description": "GGI handbook mindmap",
   "scripts": {
     "prebuild": "",
     "build": "npm run build:default -- --no-open",
-    "build:default": "markmap handbook-map-EN.md --output index.html",
+    "build:default": "markmap handbook-map-EN.md --output index.html & markmap handbook-map-ZH.md --output index-zh.html",
     "dev": "npm run build:default -- --watch"
   },
   "dependencies": {
