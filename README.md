@@ -8,4 +8,4 @@ You can visit mindmap by:
 
 ## LICENSE
 
-[CC-BY 4.0](./LICENSE)
+[CC-BY-4.0](./LICENSE)
