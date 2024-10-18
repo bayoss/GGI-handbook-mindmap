@@ -4,7 +4,7 @@ markmap:
   colorFreezeLevel: 2
 ---
 
-# 开源治理良策
+# 开源治理良策 （ZH|[EN](./index.html)）
 
 ## 链接 
 - [GGI Handbook Mindmap](https://github.com/bayoss/GGI-handbook-mindmap)
