@@ -10,7 +10,6 @@ markmap:
 - [GGI Handbook Mindmap](https://github.com/bayoss/GGI-handbook-mindmap)
 - [GGI Handbook ](https://ospo-alliance.org/ggi/)
 - [OSPO Alliance](https://ospo-alliance.org/)
-- [OW2](https://www.ow2.org/)
 
 ## Introduction
 
